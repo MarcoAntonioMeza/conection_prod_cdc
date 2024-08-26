@@ -21,8 +21,7 @@ Desktop.ini
 .travis.yml
 
 # ignore keys
-
-lib/Interceptor/*.p12
-lib/Interceptor/*.pem
+#lib/Interceptor/*.p12
+#lib/Interceptor/*.pem
 
 ApiTest.txt
