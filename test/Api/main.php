@@ -10,7 +10,7 @@ use \RCCFicoScore\Client\ApiException;
 use \RCCFicoScore\Client\Configuration;
 use RCCFicoScore\Client\Model\CatalogoEstados;
 use RCCFicoScore\Client\Model\PersonaPeticion;
-use RCCFicoScore\Client\Model\DomicilioPeticion;
+use RCCFicoScore\Client\Model\DomicilioPeticion; 
 
 use Signer\Manager\Interceptor\MiddlewareEvents;
 use Signer\Manager\Interceptor\KeyHandler;
